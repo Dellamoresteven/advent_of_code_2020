@@ -24,3 +24,5 @@ for x in lines:
         key,value = k.split(":")
         dic[key] = value
 
+    ## check for valid here with dic
+
