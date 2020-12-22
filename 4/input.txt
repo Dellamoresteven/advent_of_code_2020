@@ -217,7 +217,7 @@ ecl:oth pid:142618419 byr:1955 hgt:193cm eyr:1977 hcl:#602927
 
 hcl:z ecl:dne iyr:1926 eyr:2026 pid:175cm hgt:150 byr:2023 cid:234
 
-hgt:61cm iyr:165 byr:1956
+hgt:61cm iyr:1965 byr:1956
 pid:224946350 cid:105
 eyr:1951 hcl:#733820 ecl:amb
 
@@ -1130,4 +1130,4 @@ pid:028071950 eyr:2022 ecl:gmt hgt:151in iyr:2016
 byr:2001 iyr:2011
 ecl:brn
 pid:487702556 hcl:#602927
-hgt:167cm eyr:20269
+hgt:167cm eyr:2026
