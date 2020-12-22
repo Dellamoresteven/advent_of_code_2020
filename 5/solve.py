@@ -31,7 +31,7 @@ seatsID = np.sort(seatsID)
 for i, s in enumerate(seatsID):
     if i == 0: continue
     if seatsID[i - 1] != s - 1:
-        print("part 2:", s)
+        print("part 2:", s-1)
 
 
 
